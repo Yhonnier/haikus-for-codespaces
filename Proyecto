@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="estilos.css">
+	<title>Prueba</title>
+</head>
+<body>
+	
+	<div class="logo-institucion">
+		<img  src="img/images.jpg" alt="UTDFT">
+	</div>
+	
+	<div class="contenedor">
+		
+		<header class="titulo">
+			<h1>disciplinas</h1>
+		</header>
+		
+		<main class="contenido">
+			
+			<section>
+				<h3>Reseña Histórica</h3>
+				<p>Relleno relleno relleno relleno relleno. Relleno relleno relleno relleno relleno. Relleno relleno relleno relleno relleno. Relleno relleno relleno relleno relleno.</p>
+			</section>
+			
+			<section>
+				<h3>Visión</h3>
+				<p>Relleno relleno relleno relleno relleno. Relleno relleno relleno relleno relleno. Relleno relleno relleno relleno relleno. Relleno relleno relleno relleno relleno.</p>
+			</section>
+			
+			<section>
+				<h3>Misión</h3>
+				<p>Relleno relleno relleno relleno relleno. Relleno relleno relleno relleno relleno. Relleno relleno relleno relleno relleno. Relleno relleno relleno relleno relleno.</p>
+			</section>
+			
+		</main>
+		
+		<aside class="info">
+			<p>Relleno relleno relleno relleno relleno. Relleno relleno relleno relleno relleno.</p>
+			<img src="img/inv5.jpg" alt="sd">
+		</aside>
+		
+		<div class="enlaces">
+			<a href="areasU.html">Áreas UTDFT</a>
+		</div>
+		
+		<div class="enlaces">
+			<a href="#">enlaces</a>
+		</div>
+		
+		<div class="enlaces">
+			<a href="#">enlaces</a>
+		</div>
+		
+		<div class="enlaces">
+			<a href="#">enlaces</a>
+		</div>
+		
+		<footer class="pie-pag">
+			<h6>Alumn@s: Danielys cel: 04245637687</h6>
+			<h6>Alumn@s: Carle cel: 04245647898</h6>
+			<h6>Alumn@s: Tato cel: 0404125648799</h6>
+			<h6>Alumn@s: Will cel: 04145637687</h6>
+		</footer>
+		
+	</div>
+	
+	
+</body>
+</html>
